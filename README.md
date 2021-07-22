@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hossam</h1>
 <h3 align="center">A fresh graduated Artificial intelligence student from Egypt</h3>
 
-- 🔭 I’m currently working on **Automatic text summarization for academic papers**
+- 🔭 I’m currently working on **Side projects**
 
 - 🌱 I’m currently learning **Tableau, Apache Spark**
 
