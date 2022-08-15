@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hossam</h1>
-<h3 align="center">A fresh graduated Artificial intelligence student from Egypt</h3>
-
-- 🔭 I’m currently working on **Side projects**
-
-- 🌱 I’m currently learning **Tableau, Apache Spark**
-
-- 💬 Ask me about **sklearn, keras, pytorch, pandas**
+<h3 align="center">Data Scientist | NLP Enthusiastic </h3>
 
 - 📫 How to reach me **ahmshalan@gmail.com**
 
